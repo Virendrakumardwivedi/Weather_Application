@@ -1,4 +1,4 @@
-#Weather Forecast Application
+Weather Forecast Application
 
 This is a simple web application that allows users to fetch weather forecasts based on city names. It integrates with two different weather forecast APIs to provide both summary and hourly forecasts. The application is built using Java Spring Boot for the backend, HTML/CSS/JavaScript for the frontend, and utilizes RESTful APIs for data retrieval.
 
